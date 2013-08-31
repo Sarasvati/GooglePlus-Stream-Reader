@@ -9,7 +9,7 @@
  * The author is releasing this for learning/educational purposes and/or in the hope it will be useful and with NO WARRANTY OF ANY KIND    **
  * (see License below).                                                                                                                     *
  ********************************************************************************************************************************************
- * **SGC IS PORTED FROM OPEN SOURCE PHP work by DEVIN SMITH http://devin.la and MICHAEL MAHEMOFF http://mahemoff.com***                     *   
+ * **GsR IS PORTED FROM OPEN SOURCE PHP work by DEVIN SMITH http://devin.la and MICHAEL MAHEMOFF http://mahemoff.com***                     *   
  *                                                                                                                                         **
  *  PORTING, as a sort of "translation", is DERIVATIVE WORK and thus SUBJECT TO COPYRIGHT.                                                ***
  *  PORTED CODE normally bears THE SAME COPYRIGHT and LICENSE as the source.                                                               **
@@ -409,7 +409,7 @@ public class itemList
 }
 
 // traditional spinner to alert you that this thing is still working (and I put a sleep fucntion to throttle a bit).
-//code retrieved here (ths isn't mine but it's open source and I edited it a bit) http://www.c-sharpcorner.com/uploadfile/cbragg/console-application-waitbusy-spin-animation/
+//code retrieved here (this isn't mine but it's open source and I edited it a bit) http://www.c-sharpcorner.com/uploadfile/cbragg/console-application-waitbusy-spin-animation/
 
 public static class SpinAnimation
 {
